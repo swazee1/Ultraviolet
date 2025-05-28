@@ -26,7 +26,7 @@
         "idb": "^7.1.1",
         "meriyah": "^4.3.3",
         "mime-db": "^1.51.0",
-        "parse5": "^7.1.2",
+        "parse5": "^7.3.0",
         "set-cookie-parser": "^2.4.8"
     },
     "devDependencies": {
