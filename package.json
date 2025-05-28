@@ -24,7 +24,7 @@
         "esotope-hammerhead": "^0.6.1",
         "events": "^3.3.0",
         "idb": "^7.1.1",
-        "meriyah": "^4.3.3",
+        "meriyah": "^4.5.0",
         "mime-db": "^1.51.0",
         "parse5": "^7.1.2",
         "set-cookie-parser": "^2.4.8"
