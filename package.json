@@ -27,7 +27,7 @@
         "meriyah": "^4.3.3",
         "mime-db": "^1.51.0",
         "parse5": "^7.1.2",
-        "set-cookie-parser": "^2.4.8"
+        "set-cookie-parser": "^2.7.1"
     },
     "devDependencies": {
         "copy-webpack-plugin": "^11.0.0",
